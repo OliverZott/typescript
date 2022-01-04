@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "basics"
+		},
+		{
+			"path": "grunt"
+		},
+		{
+			"path": "scrimba-course"
+		},
+		{
+			"name": "typescript",
+		}
+	]
+}
