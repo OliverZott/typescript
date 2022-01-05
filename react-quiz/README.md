@@ -1,3 +1,20 @@
+# Run
+
+# Setup
+- `npx create-react-app react-quiz --template typescript`
+- `npm i styled-components @types/styled-components` https://styled-components.com/
+- fonts from https://fonts.google.com/ --> insert code to /public/index.html
+- Quiz API:
+    - https://opentdb.com/api.php?amount=10 
+    - https://opentdb.com/api_config.php
+
+
+
+# Logic
+
+
+
+----------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
