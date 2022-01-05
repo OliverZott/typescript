@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "_styleguide"
+		},
+		{
+			"path": "react-quiz"
 		}
 	]
 }
