@@ -24,7 +24,7 @@ class Bird extends Animal {
 
 var cat = new Animal("Cat", "Kosto");
 cat.move(70);
-cat.name = "blub";
+// cat.name = "blub";
 
 var bird = new Bird("Redbreast", "Tim");
-bird.fly(17);
+bird.fly(25);
