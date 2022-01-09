@@ -9,3 +9,4 @@ array1 = ["hello"];
 let tuple1 = [1, 2];
 tuple1 = ['f', 'd'];
 console.log(tuple1[0]);
+//# sourceMappingURL=02_ArraysAndTuples.js.map

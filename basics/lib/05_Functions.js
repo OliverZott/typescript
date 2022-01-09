@@ -25,3 +25,4 @@ function Add4(x, y) {
 console.log(sum(1, 3, 17));
 log("Hello :)");
 console.log(add3(15, 10));
+//# sourceMappingURL=05_Functions.js.map

@@ -14,3 +14,4 @@ let point1 = {
 };
 console.log(typeof point1);
 console.log(point1);
+//# sourceMappingURL=03_ObjectTypes.js.map

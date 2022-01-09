@@ -5,3 +5,4 @@ const point = { x: 12, y: 15 };
 point.x = 99;
 point.y = 'blub';
 console.log("x: " + point.x + " and y: " + point.y);
+//# sourceMappingURL=04_ConstDeclaration.js.map

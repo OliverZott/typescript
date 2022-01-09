@@ -19,3 +19,4 @@ console.log(queue.pop);
 console.log(queue);
 console.log(array);
 console.log(set);
+//# sourceMappingURL=01_InstanceTypes.js.map

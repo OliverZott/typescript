@@ -19,3 +19,4 @@ takes2D(point3d);
 function takes3D(point) { }
 ;
 takes3D(point2d); // ERROR
+//# sourceMappingURL=06_StructuralTyping.js.map

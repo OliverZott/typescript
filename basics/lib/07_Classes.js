@@ -19,3 +19,4 @@ cat.move(70);
 // cat.name = "blub";
 var bird = new Bird("Redbreast", "Tim");
 bird.fly(25);
+//# sourceMappingURL=07_Classes.js.map
