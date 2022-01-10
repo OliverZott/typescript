@@ -1,7 +1,13 @@
 # run
 
 - `npm install`
-- `npx tsc --watch` ... modifications to source code will **re-compile** on-the-fly
+- Transpile TS --> JS
+  - `npx tsc --watch` ... modifications to source code will **re-compile** on-the-fly
+  or 
+  - `npx tsc xxx.ts` 
+- To compile ts directly use **ts-node**
+  - `npm i ts-node`
+  - `npx ts-node src/xxx.ts`
 
 
 ------------------------------------------------------------------------------------------------------------
