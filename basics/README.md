@@ -1,3 +1,8 @@
+# Remarks
+- **type** keyword --> see *03_Objects*
+- First-level-functions
+
+
 # run
 
 - `npm install`

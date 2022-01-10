@@ -4,15 +4,18 @@ class Person {
         this._age = _age;
     }
 
-    growOld() {
+    growOld () {
         this._age++;
     }
 
-    growOld2 = () => {  // property pointing to arrow function to capture context from surrounding content 
+    // - Property pointing to arrow function to capture it from surrounding context.
+    // - Because all property initializers execute at the end of te constructor, 
+    //      so it will be bound to whatever instance is present within the constructor.
+    growOld2 = () => {
         this._age++;
     }
 
-    age() {
+    age () {
         return this._age;
     }
 }
@@ -20,13 +23,13 @@ class Person {
 const person = new Person(31);
 // person.growOld();
 
-// Method-to-variable Assignement !!!
+// Method-to-variable Assignment !!!
 const growOld = person.growOld;
 const growOld2 = person.growOld2;
 
 
 
-// growOld();  // method is now invoked directly without the object-context --> RUNTIME ERROR
+growOld();  // method is now invoked directly without the object-context --> RUNTIME ERROR
 growOld2();  // method is now invoked directly without the object-context --> RUNTIME ERROR
 
 console.log(person.age());
