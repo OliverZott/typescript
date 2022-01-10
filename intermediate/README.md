@@ -1,3 +1,9 @@
+# Remarks
+- Arrow functions in classes (properties!) --> WTF !?!  --> see *01_This*
+- const vs readonly --> producing compile-time errors --> see *02_*
+
+
+
 # run
 
 - `npm install`
