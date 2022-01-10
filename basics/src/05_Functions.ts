@@ -1,14 +1,16 @@
-function add (a: number, b: number): number {
+export { }
+
+function add(a: number, b: number): number {
     return a + b;
 }
 
 // void
-function log (message: string): void {
+function log(message: string): void {
     console.log("LOG: " + message);
 }
 
 // various number of parameters
-function sum (...values: number[]) {
+function sum(...values: number[]) {
     return (values.reduce((prev, curr) => { return prev + curr }))
 }
 
@@ -24,7 +26,7 @@ add3 = function (a: number, b: number) {
     return a + b;
 }
 
-function Add4 (x: number, y: number) {
+function Add4(x: number, y: number) {
     return x + y;
 }
 
