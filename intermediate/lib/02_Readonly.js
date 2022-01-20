@@ -12,7 +12,7 @@ const point = {
 };
 // variable assignment  --> ERROR
 // point = { x: 1, y: 1 };
-// property assignment
+// property assignment (still working on const)
 point.x = 1;
 // point.y = 2; 
 console.log(point);

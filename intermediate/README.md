@@ -1,6 +1,7 @@
 # Remarks
-- Arrow functions in classes (properties!) --> WTF !?!  --> see *01_This*
-- const vs readonly --> producing compile-time errors --> see *02_*
+- Arrow functions in classes (properties!) --> WTF !?!  -->  *01_*
+- Const vs Readonly --> producing compile-time errors -->  *02_*
+- Union Types (number | string ) --> *03_*
 
 
 
