@@ -5,7 +5,7 @@ function formatCommandLine(input) {
         line = input.trim();
     }
     else {
-        line = input.map(x => x.trim()).join(' ');
+        line = input.map((x) => x.trim()).join(' ');
     }
     return line;
 }

@@ -3,7 +3,7 @@ function formatCommandLine(input: any) {
     if (typeof input === 'string') {
         line = input.trim();
     } else {
-        line = input.map(x => x.trim()).join(' ');
+        line = input.map((x: string) => x.trim()).join(' ');
     }
     return line;
 }

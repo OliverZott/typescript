@@ -22,4 +22,9 @@ function roleDice() {
     return (Math.floor(rand * 6) + 1) as DiceValue;
 }
 
-roleDice();
+console.log(roleDice());
+
+// use like enum ?!
+if (roleDice() === 7) {
+    console.log(typeof roleDice());
+}
