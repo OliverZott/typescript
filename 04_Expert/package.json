@@ -1,7 +1,7 @@
 {
-  "name": "advanced",
+  "name": "04_expert",
   "version": "1.0.0",
-  "description": "- **type** keyword --> see *03_Objects*\r - First-level-functions",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

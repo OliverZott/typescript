@@ -1,9 +1,6 @@
 {
 	"folders": [
 		{
-			"path": "basics"
-		},
-		{
 			"path": "grunt"
 		},
 		{
@@ -16,7 +13,13 @@
 			"path": "intro"
 		},
 		{
-			"path": "intermediate"
+			"path": "01_basics"
+		},
+		{
+			"path": "02_intermediate"
+		},
+		{
+			"path": "03_advanced"
 		}
 	]
 }
