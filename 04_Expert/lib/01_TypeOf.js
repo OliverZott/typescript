@@ -25,3 +25,4 @@ const personResponse = {
 function processResponse(person) {
     console.log(person.name, person.age);
 }
+//# sourceMappingURL=01_TypeOf.js.map

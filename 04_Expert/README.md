@@ -10,8 +10,13 @@
   - `npm i ts-node`
   - `npx ts-node src/xxx.ts`
 
----
+# debug
 
+- NO `launch,.json` file
+- Just `"sourceMap": true,` in `tsconfig.json`
+- Set breakpoints and press F5
+
+---
 # setup project
 
 - `npm init -y` ... with "yes" to all questions
